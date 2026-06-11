@@ -1,0 +1,40 @@
+#ifndef COMMAND_H
+#define COMMAND_H
+
+#define LOGIN "LIN"
+#define LOGIN_RESPONSE "RLI"
+
+#define LOGOUT "LOU"
+#define LOGOUT_RESPONSE "RLO"
+
+#define CHANGEPASS "CPS"
+#define CHANGEPASS_RESPONSE "RCP"
+
+#define UNREGISTER "UNR"
+#define UNREGISTER_RESPONSE "RUR"
+
+#define CREATE "CRE"
+#define CREATE_RESPONSE "RCE"
+
+#define CLOSE "CLS"
+#define CLOSE_RESPONSE "RCL"
+
+#define MYEVENTS "LME"
+#define MYEVENTS_RESPONSE "RME"
+
+#define LIST "LST"
+#define LIST_RESPONSE "RLS"
+
+#define SHOW "SED"
+#define SHOW_RESPONSE "RSE"
+
+#define RESERVE "RID"
+#define RESERVE_RESPONSE "RRI"
+
+#define MYRESERVATIONS "LMR"
+#define MYRESERVATIONS_RESPONSE "RMR"
+
+#define STATUS_OK "OK"
+#define STATUS_NOK "NOK"
+
+#endif
